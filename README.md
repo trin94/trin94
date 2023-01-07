@@ -5,9 +5,6 @@
 - Telegram: https://t.me/trin94
 
 <a href="https://github.com/trin94">
-  <img align="center" height=175 src="https://github-readme-stats.vercel.app/api?username=trin94" />
-</a>
-<a href="https://github.com/trin94">
   <img align="center" height=175 src="https://github-readme-stats.vercel.app/api/top-langs/?username=trin94&langs_count=10&layout=compact&hide=tex" />
 </a>
 
